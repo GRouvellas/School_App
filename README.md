@@ -1,2 +1,2 @@
 # School_App
-A command prompt application with Java.
+A console application with Java.
